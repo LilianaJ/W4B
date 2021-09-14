@@ -1,0 +1,39 @@
+body{
+    background:linear-gradient(to right, rgba(238, 200, 177, 0.5), rgba(238, 200, 177, 0.5)),
+    url("/FINAL-PROJECT/img/sunset.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+    
+}
+nav{
+    background-color:#c28e7a;
+    border-radius: 10px 10px 10px 10px;
+    height: 80px;
+    width: 100%;
+    position:static;
+}
+
+ul{
+    list-style-type: none;
+    margin: 10;
+    text-align: right;
+}
+li{
+    height: 50px;
+    display: inline-block;
+    font-size: 30px;
+    color: #fff;
+    line-height:60px;
+    padding:0 40px;
+    margin-top: 0%;
+}
+.logo{
+ float:left;
+ margin: 25%;
+ margin-top: 10px;
+ 
+
+}
+
+
